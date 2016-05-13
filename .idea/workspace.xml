@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70a96422-cccc-41b3-88e2-b5e5ad771872" name="Default" comment="Added lambda and records examples.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lambdas.erl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/records.erl" />
+    <list default="true" id="70a96422-cccc-41b3-88e2-b5e5ad771872" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/useless.erl" afterPath="$PROJECT_DIR$/src/useless.erl" />
     </list>
     <ignored path="erlangTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -550,6 +546,14 @@
       <option name="presentableId" value="Default" />
       <updated>1462545481083</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added lambda and records examples.">
+      <created>1463172363672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1463172363673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">

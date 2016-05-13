@@ -1,3 +1,12 @@
+%%%-------------------------------------------------------------------
+%%% @author Jason Huntley
+%%%
+%%% @doc This is just random tests; specific examples of simple
+%%%      features provided by Erlang.
+%%%
+%%% @end
+%%% Created : 09. May 2016 4:18 PM
+%%%-------------------------------------------------------------------
 -module(useless).
 -export([add/2,hello/0,greet_and_add_two/1,greet/2,head/1,
   second/1,heh_fine/1,oh_god/1,reverse/1,checksize/1,checksizeb/1,
